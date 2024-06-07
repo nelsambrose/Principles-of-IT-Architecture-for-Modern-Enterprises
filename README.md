@@ -1,7 +1,7 @@
 # IT Architecture Principles
 
 ## Overview
-This repository offers a detailed guide on essential IT architecture principles. Authored by Nelson Ambrose, the guide covers topics including automation, scalability, performance, security, and more, providing valuable insights and best practices for developers and IT professionals.
+This short guide offers a detailed guide on essential IT architecture principles, with topics including automation, scalability, performance, security, and more, providing valuable insights and best practices for developers and IT professionals.
 
 ## Table of Contents
 1. [Introduction](#introduction)
