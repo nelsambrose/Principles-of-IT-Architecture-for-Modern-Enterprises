@@ -1,7 +1,7 @@
 # IT Architecture Principles
 
 ## Overview
-This short guide offers a detailed guide on essential IT architecture principles, with topics including automation, scalability, performance, security, and more, providing valuable insights and best practices for developers and IT professionals.
+This short guide offers a description of the most important and essential IT architecture principles, with topics including automation, scalability, performance, security, and more, providing valuable insights and best practices for developers and IT professionals.
 
 ## Table of Contents
 1. [Introduction](#introduction)
